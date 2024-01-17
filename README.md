@@ -3,8 +3,8 @@ This repository contains a simple implementation of the Caesar cipher in Python.
 
 #Features:
 Encryption and Decryption:
-          Easily encrypt and decrypt messages using the Caesar cipher algorithm.
+  Easily encrypt and decrypt messages using the Caesar cipher algorithm.
 Customizable Shift: 
-          Choose the desired shift value to customize the encryption/decryption process.
+  Choose the desired shift value to customize the encryption/decryption process.
 Support for Alphabets: 
-          Works with both uppercase and lowercase letters, maintaining the case of the input.
+   Works with both uppercase and lowercase letters, maintaining the case of the input.
